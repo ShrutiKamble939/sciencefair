@@ -1,0 +1,22 @@
+{
+  "name": "sciencefair",
+  "version": "1.0.0",
+  "description": "this repository consist of containerized node app for science fair",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShrutiKamble939/sciencefair.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShrutiKamble939/sciencefair/issues"
+  },
+  "homepage": "https://github.com/ShrutiKamble939/sciencefair#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
